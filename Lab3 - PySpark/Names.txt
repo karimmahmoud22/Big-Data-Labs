@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+# Karim Mahmoud Kamal
+# Sec: 2
+# B.N: 12
+
+# Mustafa Mahmoud Hamada
+# Sec: 2
+=======
+# Karim Mahmoud Kamal
+# Sec: 2
+# B.N: 12
+
+# Mustafa Mahmoud Hamada
+# Sec: 2
+>>>>>>> 9f7592afe6223ccd38bf3896fe05c80b9ee18dbc
+# B.N: 25
